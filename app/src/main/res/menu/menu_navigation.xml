@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/agregarUsuario"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar usuario"
+        />
+
+    <item
+        android:id="@+id/agenda"
+        android:icon="@drawable/ic_list"
+        android:title="Agenda"
+        />
+
+</menu>
