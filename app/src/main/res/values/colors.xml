@@ -10,6 +10,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+
     //-- PALETA DE COLORES
 
     <color name="cyan_200">#80DEEA</color>
@@ -19,6 +20,8 @@
     <color name="cyan_600">#00ACC1</color>
     <color name="cyan_700">#0097A7</color>
     <color name="cyan_800">#00838F</color>
-
+    <color name="red">#DAC61003</color>
+    <color name="yellow">#CBFFBF00</color>
+    <color name="green">#AB02A509</color>
 
 </resources>
